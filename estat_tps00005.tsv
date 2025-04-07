@@ -1,0 +1,29 @@
+freq,indic_de,geo\TIME_PERIOD	2013 	2014 	2015 	2016 	2017 	2018 	2019 	2020 	2021 	2022 	2023 	2024 
+A,POPSHARE_EU27_2020,AT	1.9 	1.9 	1.9 	2.0 	2.0 	2.0 p	2.0 be	2.0 e	2.0 ep	2.0 e	2.0 bep	2.0 ep
+A,POPSHARE_EU27_2020,BE	2.5 	2.5 	2.5 	2.5 	2.5 	2.6 p	2.6 be	2.6 e	2.6 ep	2.6 e	2.6 bep	2.6 ep
+A,POPSHARE_EU27_2020,BG	1.6 	1.6 b	1.6 b	1.6 	1.5 b	1.5 e	1.5 be	1.5 e	1.5 b	1.5 e	1.4 bep	1.4 ep
+A,POPSHARE_EU27_2020,CY	0.2 	0.2 	0.2 	0.2 	0.2 	0.2 p	0.2 be	0.2 e	0.2 ep	0.2 e	0.2 bep	0.2 ep
+A,POPSHARE_EU27_2020,CZ	2.4 	2.4 	2.4 	2.4 	2.4 	2.4 p	2.4 be	2.4 e	2.4 ep	2.4 e	2.4 bep	2.4 ep
+A,POPSHARE_EU27_2020,DE	18.2 	18.2 	18.3 	18.5 	18.5 	18.6 p	18.6 be	18.6 e	18.6 ep	18.7 e	18.6 bep	18.6 ep
+A,POPSHARE_EU27_2020,DK	1.3 	1.3 	1.3 	1.3 	1.3 	1.3 p	1.3 be	1.3 e	1.3 ep	1.3 e	1.3 bep	1.3 ep
+A,POPSHARE_EU27_2020,EE	0.3 	0.3 	0.3 	0.3 	0.3 	0.3 p	0.3 be	0.3 e	0.3 ep	0.3 e	0.3 bep	0.3 ep
+A,POPSHARE_EU27_2020,EL	2.5 	2.5 	2.4 	2.4 	2.4 	2.4 p	2.4 be	2.4 e	2.4 ep	2.3 e	2.3 bep	2.3 ep
+A,POPSHARE_EU27_2020,ES	10.6 	10.5 b	10.5 b	10.4 	10.4 b	10.5 e	10.5 be	10.6 e	10.6 b	10.6 e	10.7 bep	10.8 ep
+A,POPSHARE_EU27_2020,EU27_2020	100.0 b	100.0 be	100.0 be	100.0 e	100.0 be	100.0 e	100.0 b	100.0 e	100.0 b	100.0 e	100.0 bep	100.0 ep
+A,POPSHARE_EU27_2020,FI	1.2 	1.2 	1.2 	1.2 	1.2 	1.2 p	1.2 be	1.2 e	1.2 ep	1.2 e	1.2 bep	1.2 ep
+A,POPSHARE_EU27_2020,FR	14.9 	14.9 	15.0 	15.0 	15.0 	15.0 p	15.1 be	15.1 e	15.1 bep	15.3 e	15.3 bep	15.2 ep
+A,POPSHARE_EU27_2020,HR	1.0 	1.0 b	0.9 b	0.9 	0.9 b	0.9 e	0.9 be	0.9 e	0.9 b	0.9 e	0.9 bep	0.9 ep
+A,POPSHARE_EU27_2020,HU	2.2 	2.2 b	2.2 b	2.2 	2.2 b	2.2 e	2.2 be	2.2 e	2.2 b	2.2 e	2.1 bep	2.1 ep
+A,POPSHARE_EU27_2020,IE	1.0 	1.0 b	1.1 b	1.1 	1.1 b	1.1 e	1.1 be	1.1 e	1.1 b	1.2 e	1.2 bep	1.2 ep
+A,POPSHARE_EU27_2020,IT	13.6 	13.6 b	13.6 b	13.5 	13.5 b	13.4 e	13.4 be	13.3 e	13.3 b	13.2 e	13.2 bep	13.1 ep
+A,POPSHARE_EU27_2020,LT	0.7 b	0.7 be	0.7 be	0.7 e	0.6 be	0.6 e	0.6 b	0.6 e	0.6 b	0.6 e	0.6 bep	0.6 ep
+A,POPSHARE_EU27_2020,LU	0.1 	0.1 	0.1 	0.1 	0.1 	0.1 p	0.1 be	0.1 e	0.1 ep	0.1 e	0.1 bep	0.1 ep
+A,POPSHARE_EU27_2020,LV	0.5 	0.5 	0.4 	0.4 	0.4 	0.4 p	0.4 be	0.4 e	0.4 ep	0.4 e	0.4 bep	0.4 ep
+A,POPSHARE_EU27_2020,MT	0.1 	0.1 b	0.1 b	0.1 	0.1 b	0.1 e	0.1 e	0.1 e	0.1 	0.1 e	0.1 bep	0.1 ep
+A,POPSHARE_EU27_2020,NL	3.8 	3.8 	3.8 	3.8 	3.8 	3.9 p	3.9 be	3.9 e	3.9 ep	3.9 e	4.0 bep	4.0 ep
+A,POPSHARE_EU27_2020,PL	8.6 	8.6 	8.6 	8.5 	8.5 	8.5 p	8.5 be	8.5 e	8.3 bep	8.3 e	8.2 bep	8.2 ep
+A,POPSHARE_EU27_2020,PT	2.4 b	2.4 b	2.3 b	2.3 	2.3 b	2.3 e	2.3 b	2.3 e	2.3 b	2.3 e	2.3 bep	2.4 ep
+A,POPSHARE_EU27_2020,RO	4.5 	4.5 	4.5 	4.4 	4.4 	4.4 p	4.3 be	4.3 e	4.3 ep	4.3 e	4.3 bep	4.2 ep
+A,POPSHARE_EU27_2020,SE	2.2 	2.2 	2.2 	2.2 	2.2 	2.3 p	2.3 be	2.3 e	2.3 ep	2.3 e	2.4 bep	2.3 ep
+A,POPSHARE_EU27_2020,SI	0.5 	0.5 	0.5 	0.5 	0.5 	0.5 p	0.5 be	0.5 e	0.5 ep	0.5 e	0.5 bep	0.5 ep
+A,POPSHARE_EU27_2020,SK	1.2 	1.2 	1.2 	1.2 	1.2 	1.2 p	1.2 be	1.2 e	1.2 ep	1.2 e	1.2 bep	1.2 ep
